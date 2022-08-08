@@ -1,5 +1,5 @@
-# github-para-programadores
+# Github para programadores
 
 Git para desarrolladores
 
-[Visita mi Blog(https://www.instagram.com/codealo/)]
+[Visita un Blog](https://www.instagram.com/codealo/)
