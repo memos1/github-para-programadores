@@ -1,3 +1,5 @@
 # github-para-programadores
-Prueba de repositorioj 
-[Visita mi Blog()]
+
+Git para desarrolladores
+
+[Visita mi Blog(https://www.instagram.com/codealo/)]
