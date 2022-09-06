@@ -1,2 +1,3 @@
-alert("Codigo Editado")
-console.log("Se imprime texto desde la consola)
+let inicializar = (name) => {
+    alert("Prueba con GitHub")
+}
